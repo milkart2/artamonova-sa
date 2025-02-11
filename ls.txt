@@ -1,0 +1,9 @@
+total 28K
+drwxrwxr-x 3 milkart milkart 4,0K фев 11 23:37 ./
+drwxr-xr-x 3 milkart milkart 4,0K фев 11 23:30 ../
+-rw-rw-r-- 1 milkart milkart  595 фев 11 23:36 config.txt
+-rw-rw-r-- 1 milkart milkart  153 фев 11 23:33 first.txt
+drwxrwxr-x 8 milkart milkart 4,0K фев 11 23:37 .git/
+-rw-rw-r-- 1 milkart milkart    0 фев 11 23:37 ls.txt
+-rw-rw-r-- 1 milkart milkart   15 фев 11 23:30 README.md
+-rw-rw-r-- 1 milkart milkart  199 фев 11 23:33 status.txt
